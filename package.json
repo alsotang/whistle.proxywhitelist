@@ -1,0 +1,24 @@
+{
+  "name": "whistle.proxywhitelist",
+  "version": "1.0.0",
+  "description": "proxy whitelist ips for whistle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsotang/whistle.proxywhitelist.git"
+  },
+  "keywords": [
+    "whistle",
+    "proxy",
+    "whitelist"
+  ],
+  "author": "alsotang <alsotang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alsotang/whistle.proxywhitelist/issues"
+  },
+  "homepage": "https://github.com/alsotang/whistle.proxywhitelist#readme"
+}
